@@ -9,3 +9,5 @@ The Main page is the index page where as the first page starts from the login pa
 This is not a completely functional website as the backend is not yet completely functional yet the hosting process in on the way and would be available asap
 
 Some of the UI ideas are inspired from some of the internet sources and credits to them as well 
+The username and password can be anything 
+for the signup page as well you can give a valid name to enter into the site

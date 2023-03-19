@@ -8,4 +8,4 @@ The Main page is the index page where as the first page starts from the login pa
 
 This is not a completely functional website as the backend is not yet completely functional yet the hosting process in on the way and would be available asap
 
-Some of the Ui ideas are inspired from some of the internet sources and credits to them as well 
+Some of the UI ideas are inspired from some of the internet sources and credits to them as well 

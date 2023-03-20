@@ -14,5 +14,5 @@ The username and password can be anything
 
 for the signup page as well you can give a valid name to enter into the site
 
-Some information regarding the website is that since it is a free hosting server some phones might ay it is dangerous yet you guys can trust and enter the site by clicking view more details and visit site anyways needn't give any confidential or any sort of information 
+Some information regarding the website is that since it is a free hosting server some netwroks might say it is dangerous yet you guys can trust and enter the site by clicking view more details and visit site anyways needn't give any confidential or any sort of information 
 
